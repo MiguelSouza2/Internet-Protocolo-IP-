@@ -18,8 +18,35 @@
               "icon": "excalidraw-icon",
               "title": "SSH"
             }
+          },
+          {
+            "id": "5515bab011dc6825",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "material-de-aula/aula 09.2- QTS- Exercício Jest TDD.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "aula 09.2- QTS- Exercício Jest TDD"
+            }
+          },
+          {
+            "id": "29ee19e1bc987db7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aula 26-08.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aula 26-08"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,18 +206,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8063ef6020ecbd63",
+  "active": "29ee19e1bc987db7",
   "lastOpenFiles": [
-    "Excalidraw/SSH.md",
+    "Aplicação-prática/Demonstração das fases.md",
+    "Aplicação-prática/Criar uma aplicação para teste usando Jest.md",
+    "aula 26-08.md",
     "anotações/aula 04-08.md",
+    "material-de-aula/aula 09.2- QTS- Exercício Jest TDD.pdf",
+    "material-de-aula/aula 09.1- QTS- Teste TDD-Prática com Jest.pdf",
+    "material-de-aula/aula 09- QTS- Teste TDD.pdf",
+    "material-de-aula/aula 08- QTS- CMMI.pdf",
+    "aula-18-08.md",
+    "Excalidraw/SSH.md",
+    "Aplicação-prática",
     "Excalidraw/SNMP.md",
     "Excalidraw/dhcp.md",
     "Excalidraw/FTP.md",
     "Excalidraw/DNS.md",
     "Excalidraw/smtp.md",
-    "aula-18-08.md",
     "README.md",
-    "Untitled",
+    "material-de-aula",
     "Excalidraw/1-1ProtocoloIp.md",
     "Excalidraw/camadas TCP-IP.md",
     "aula 11-08.md",
