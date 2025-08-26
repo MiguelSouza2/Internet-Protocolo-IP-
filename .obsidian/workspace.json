@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1d2f825462bdf825",
+        "id": "825874726ffd4f58",
         "type": "tabs",
         "children": [
           {
-            "id": "64fb3bca72dc564a",
+            "id": "8063ef6020ecbd63",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/SSH.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "SSH"
             }
           }
         ]
@@ -166,6 +168,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -176,14 +179,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "64fb3bca72dc564a",
+  "active": "8063ef6020ecbd63",
   "lastOpenFiles": [
     "Excalidraw/SSH.md",
     "anotações/aula 04-08.md",
+    "Excalidraw/SNMP.md",
+    "Excalidraw/dhcp.md",
     "Excalidraw/FTP.md",
     "Excalidraw/DNS.md",
-    "Excalidraw/dhcp.md",
-    "Excalidraw/SNMP.md",
     "Excalidraw/smtp.md",
     "aula-18-08.md",
     "README.md",
